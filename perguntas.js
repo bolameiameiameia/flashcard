@@ -1,36 +1,36 @@
 criaCartao(
     'Brasil' ,
-    'Quem descobriu o Brasil' ,
-    'Resposta'
+    'Quem descobriu o Brasil?' ,
+    'Jonh Vlogs'
 )
 
 criaCartao(
-    'Título' ,
-    'Pergunta' ,
-    'Resposta'
+    'Fortuna' ,
+    'Quem é a pessoa mais rica do mundo?' ,
+    'Elon Musk'
 )
 
 criaCartao(
-    'Título' ,
-    'Pergunta' ,
-    'Resposta'
+    'Rei Leão' ,
+    'Qual o animal principal do Rei Leão?' ,
+    'Cabra'
 )
 
 criaCartao(
-    'Título' ,
-    'Pergunta' ,
-    'Resposta'
+    'Descoberta' ,
+    'Quem descobriu a America' ,
+    'P. Diddy'
 )
 
 criaCartao(
-    'Título' ,
-    'Pergunta' ,
-    'Resposta'
+    'Grota' ,
+    'Quem é dono da Grota no Rp?' ,
+    'Douglinhas'
 )
 
 criaCartao(
-    'Título' ,
-    'Pergunta' ,
-    'Resposta'
+    'Distante' ,
+    'Qual pais mais distante do Brasil' ,
+    'Peru'
 )
 
